@@ -1,1 +1,69 @@
-<mxfile host="app.diagrams.net" modified="2020-09-05T05:48:26.125Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" version="13.6.6" etag="RV8gQ_00cPqckdmZRHyA" type="github"><diagram id="dsvvVNaKwY9_G6LMgkPP">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-05T06:05:30.098Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="ZbVvn75ZM3JcXZchkVhX" version="13.6.6" type="github">
+  <diagram id="dsvvVNaKwY9_G6LMgkPP" name="Page-1">
+    <mxGraphModel dx="1016" dy="897" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="1">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zIRxQNnUuSyzbcVbVkVt-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zIRxQNnUuSyzbcVbVkVt-1" target="zIRxQNnUuSyzbcVbVkVt-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zIRxQNnUuSyzbcVbVkVt-1" value="Maintaining Uptime" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zIRxQNnUuSyzbcVbVkVt-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.333;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zIRxQNnUuSyzbcVbVkVt-1" target="zIRxQNnUuSyzbcVbVkVt-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zIRxQNnUuSyzbcVbVkVt-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zIRxQNnUuSyzbcVbVkVt-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIRxQNnUuSyzbcVbVkVt-3" value="System Performance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zIRxQNnUuSyzbcVbVkVt-4" value="Latency, Efficiency" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zIRxQNnUuSyzbcVbVkVt-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zIRxQNnUuSyzbcVbVkVt-5" target="zIRxQNnUuSyzbcVbVkVt-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zIRxQNnUuSyzbcVbVkVt-5" value="Monitoring, Logging" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zIRxQNnUuSyzbcVbVkVt-6" value="Capacity Planning" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zIRxQNnUuSyzbcVbVkVt-7" value="Emergency Response" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zIRxQNnUuSyzbcVbVkVt-8" value="Ensure Releases are consistent &amp;amp; Stable" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="10" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zIRxQNnUuSyzbcVbVkVt-11" value="Build Configuration&lt;br&gt;Tools &amp;amp; Package Managers, installers" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="70" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="zIRxQNnUuSyzbcVbVkVt-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zIRxQNnUuSyzbcVbVkVt-14" target="zIRxQNnUuSyzbcVbVkVt-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zIRxQNnUuSyzbcVbVkVt-14" value="System Kernels, Networking" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zIRxQNnUuSyzbcVbVkVt-16" value="Application Hosting, Dependencies" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="250" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zIRxQNnUuSyzbcVbVkVt-18" value="Improving &amp;amp; Automating Large Scale Systems" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="530" y="-40" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zIRxQNnUuSyzbcVbVkVt-19" value="Understand Release Engineering, Infrastructure Automation, Continuous Delivery" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="730" y="-40" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zIRxQNnUuSyzbcVbVkVt-20" value="Infra Metrices - &lt;span style=&quot;font-weight: normal&quot;&gt;Uptime, CPU, Memory, Scale&lt;/span&gt;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="530" y="60" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zIRxQNnUuSyzbcVbVkVt-21" value="Application Metrices - &lt;span style=&quot;font-weight: normal&quot;&gt;Requests Per Min, Latency, API Usage, Integration using Connectors&lt;/span&gt;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="730" y="60" width="180" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
